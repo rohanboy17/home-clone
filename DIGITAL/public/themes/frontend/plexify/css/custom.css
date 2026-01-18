@@ -1,0 +1,12 @@
+.hero-banner-1 + .about-us-1-section {
+    margin-top: -200px;
+}
+.tab-title.active a::after {
+    width: 100%;
+}
+.tab-title.active a {
+    color: var(--color-dark);
+}
+.dark .tab-title.active a {
+    color: white;
+}
